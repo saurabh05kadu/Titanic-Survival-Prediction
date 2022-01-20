@@ -56,7 +56,8 @@ On the other side naive Bayes is also known as a bad estimator, so the probabili
 Another limitation of Naive Bayes is the assumption of independent predictors. In real life, it is almost impossible that we get a set of predictors which are completely independent.
 
 
-Project Working Video
+Project Working Video:
+
 https://user-images.githubusercontent.com/97496451/150315983-515e8eb4-ec79-4f1f-b933-518d83e9c678.mp4
 
 
