@@ -11,16 +11,28 @@
 05.Primary Azure Technology: AI + Machine Learning, Azure Data Explorer, Azure Machine Learning
 
 Working
+
 ![Screenshot (62)](https://user-images.githubusercontent.com/97496451/150307408-5b23dd6c-2fea-4b35-a297-a353221aefab.png)
+
 ![Screenshot (66)](https://user-images.githubusercontent.com/97496451/150307484-a959eb56-4a8b-419c-ad16-de46a1915f80.png)
+
 ![Screenshot (76)](https://user-images.githubusercontent.com/97496451/150307541-381f8ecc-b062-46bc-9e35-d3e0c2a64c98.png)
+
 ![Screenshot (74)](https://user-images.githubusercontent.com/97496451/150307602-a49e7a3c-74ca-4029-b3c0-5eb4153f5c50.png)
+
+
+
+
 
 What are Bayesian Networks?
 In general, Bayesian Networks (BNs) is a framework for reasoning under uncertainty using probabilities. More formally, a BN is defined as a Directed Acyclic Graph (DAG) and a set of Conditional Probability Tables (CPTs). In practice, a problem domain is initially modeled as a DAG.
 Naive Bayes assumes that the variables are independent and comes from a Gaussian distribution.
 
+
+
+
 The Bayes theorem
+
 ![Thomas_Bayes](https://user-images.githubusercontent.com/97496451/150307943-ede1108a-a56e-4e04-8a0c-4dcdffc10eeb.png)
 
 * P(A|B) is the posterior probability of class (A, target) given predictor (B, attributes).
@@ -45,6 +57,7 @@ Another limitation of Naive Bayes is the assumption of independent predictors. I
 
 
 Project Working Video
+https://user-images.githubusercontent.com/97496451/150315983-515e8eb4-ec79-4f1f-b933-518d83e9c678.mp4
 
 
 
